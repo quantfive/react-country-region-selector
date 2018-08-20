@@ -1,6 +1,6 @@
 {
   "name": "quant-react-country-region-selector",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "description": "CountryDropdown and RegionDropdown React components for your forms.",
   "main": "lib/rcrs.js",
   "scripts": {
